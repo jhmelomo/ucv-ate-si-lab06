@@ -1,0 +1,16 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+
+# VS Code y entorno
+.vscode/
+.idea/
+.DS_Store
